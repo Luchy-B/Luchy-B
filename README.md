@@ -16,8 +16,8 @@
 <p align="left">
 
 <img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
-<a href="https://twitter.com/nezerwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nezerwa" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/blessing-okpara-a06263199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elirand-nezerwa" height="30" width="40" /></a>
+<a href="https://twitter.com/Blessin10478928?t=nTvJ2Hj8KOv3XG4CQbeykQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ble3ssing" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/blessing-okpara-a06263199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blessing" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luchy-b&show_icons=true&locale=en&layout=compact" alt="Blessing" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nezerwa&show_icons=true&locale=en" alt="blessing" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blessing&show_icons=true&locale=en" alt="blessing" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luchy-b&" alt="Blessing" /></p>
